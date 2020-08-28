@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  content: MyString
+  author: MyString
+  status: 1
+  borrowed_at: 2020-08-27 21:39:55
+  returned_at: 2020-08-27 21:39:55
+
+two:
+  title: MyString
+  content: MyString
+  author: MyString
+  status: 1
+  borrowed_at: 2020-08-27 21:39:55
+  returned_at: 2020-08-27 21:39:55
